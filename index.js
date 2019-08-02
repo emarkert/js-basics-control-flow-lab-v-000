@@ -6,7 +6,7 @@ function scuberGreetingForFeet(distance) {
 
 }
 
-fucntion ternaryCheckCity() {
+function ternaryCheckCity() {
 
 
 }
